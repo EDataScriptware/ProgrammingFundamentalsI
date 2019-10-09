@@ -1,0 +1,13 @@
+C:\Users\cmcdas.MAIN\Documents\ICS\Programming Fundamentals I - Mobile Domain\Programming Solutions\Class23_DateTime_Enum\Class23_DateTime_Enum\bin\Debug\Class23_DateTime_Enum.exe.config
+C:\Users\cmcdas.MAIN\Documents\ICS\Programming Fundamentals I - Mobile Domain\Programming Solutions\Class23_DateTime_Enum\Class23_DateTime_Enum\bin\Debug\Class23_DateTime_Enum.exe
+C:\Users\cmcdas.MAIN\Documents\ICS\Programming Fundamentals I - Mobile Domain\Programming Solutions\Class23_DateTime_Enum\Class23_DateTime_Enum\bin\Debug\Class23_DateTime_Enum.pdb
+C:\Users\cmcdas.MAIN\Documents\ICS\Programming Fundamentals I - Mobile Domain\Programming Solutions\Class23_DateTime_Enum\Class23_DateTime_Enum\obj\Debug\Class23_DateTime_Enum.csprojResolveAssemblyReference.cache
+C:\Users\cmcdas.MAIN\Documents\ICS\Programming Fundamentals I - Mobile Domain\Programming Solutions\Class23_DateTime_Enum\Class23_DateTime_Enum\obj\Debug\Class23_DateTime_Enum.exe
+C:\Users\cmcdas.MAIN\Documents\ICS\Programming Fundamentals I - Mobile Domain\Programming Solutions\Class23_DateTime_Enum\Class23_DateTime_Enum\obj\Debug\Class23_DateTime_Enum.pdb
+C:\Users\cmcdas\Documents\Visual Studio 2017\Projects\Class23_DateTime_Enum\Class23_DateTime_Enum\bin\Debug\Class23_DateTime_Enum.exe.config
+C:\Users\cmcdas\Documents\Visual Studio 2017\Projects\Class23_DateTime_Enum\Class23_DateTime_Enum\bin\Debug\Class23_DateTime_Enum.exe
+C:\Users\cmcdas\Documents\Visual Studio 2017\Projects\Class23_DateTime_Enum\Class23_DateTime_Enum\bin\Debug\Class23_DateTime_Enum.pdb
+C:\Users\cmcdas\Documents\Visual Studio 2017\Projects\Class23_DateTime_Enum\Class23_DateTime_Enum\obj\Debug\Class23_DateTime_Enum.csprojResolveAssemblyReference.cache
+C:\Users\cmcdas\Documents\Visual Studio 2017\Projects\Class23_DateTime_Enum\Class23_DateTime_Enum\obj\Debug\Class23_DateTime_Enum.csproj.CoreCompileInputs.cache
+C:\Users\cmcdas\Documents\Visual Studio 2017\Projects\Class23_DateTime_Enum\Class23_DateTime_Enum\obj\Debug\Class23_DateTime_Enum.exe
+C:\Users\cmcdas\Documents\Visual Studio 2017\Projects\Class23_DateTime_Enum\Class23_DateTime_Enum\obj\Debug\Class23_DateTime_Enum.pdb

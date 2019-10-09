@@ -1,0 +1,6 @@
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class08_Demo_TryParse\Class08_Demo_TryParse\bin\Debug\Class08_Demo_TryParse.exe.config
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class08_Demo_TryParse\Class08_Demo_TryParse\bin\Debug\Class08_Demo_TryParse.exe
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class08_Demo_TryParse\Class08_Demo_TryParse\bin\Debug\Class08_Demo_TryParse.pdb
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class08_Demo_TryParse\Class08_Demo_TryParse\obj\Debug\Class08_Demo_TryParse.csprojResolveAssemblyReference.cache
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class08_Demo_TryParse\Class08_Demo_TryParse\obj\Debug\Class08_Demo_TryParse.exe
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class08_Demo_TryParse\Class08_Demo_TryParse\obj\Debug\Class08_Demo_TryParse.pdb

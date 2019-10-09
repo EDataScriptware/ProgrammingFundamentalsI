@@ -1,0 +1,6 @@
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class_07_Examples\Class_07_Examples\bin\Debug\Class_07_Examples.exe.config
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class_07_Examples\Class_07_Examples\bin\Debug\Class_07_Examples.exe
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class_07_Examples\Class_07_Examples\bin\Debug\Class_07_Examples.pdb
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class_07_Examples\Class_07_Examples\obj\Debug\Class_07_Examples.csprojResolveAssemblyReference.cache
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class_07_Examples\Class_07_Examples\obj\Debug\Class_07_Examples.exe
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class_07_Examples\Class_07_Examples\obj\Debug\Class_07_Examples.pdb

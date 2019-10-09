@@ -1,0 +1,7 @@
+C:\Users\cmcdas\Documents\Visual Studio 2017\Projects\Class21_IntroToOOP\OOP_Planets\bin\Debug\OOP_Planets.exe.config
+C:\Users\cmcdas\Documents\Visual Studio 2017\Projects\Class21_IntroToOOP\OOP_Planets\bin\Debug\OOP_Planets.exe
+C:\Users\cmcdas\Documents\Visual Studio 2017\Projects\Class21_IntroToOOP\OOP_Planets\bin\Debug\OOP_Planets.pdb
+C:\Users\cmcdas\Documents\Visual Studio 2017\Projects\Class21_IntroToOOP\OOP_Planets\obj\Debug\OOP_Planets.csprojResolveAssemblyReference.cache
+C:\Users\cmcdas\Documents\Visual Studio 2017\Projects\Class21_IntroToOOP\OOP_Planets\obj\Debug\OOP_Planets.csproj.CoreCompileInputs.cache
+C:\Users\cmcdas\Documents\Visual Studio 2017\Projects\Class21_IntroToOOP\OOP_Planets\obj\Debug\OOP_Planets.exe
+C:\Users\cmcdas\Documents\Visual Studio 2017\Projects\Class21_IntroToOOP\OOP_Planets\obj\Debug\OOP_Planets.pdb

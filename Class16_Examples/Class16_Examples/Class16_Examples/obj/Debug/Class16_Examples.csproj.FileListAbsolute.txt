@@ -1,0 +1,7 @@
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class16_Examples\Class16_Examples\bin\Debug\Class16_Examples.exe.config
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class16_Examples\Class16_Examples\bin\Debug\Class16_Examples.exe
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class16_Examples\Class16_Examples\bin\Debug\Class16_Examples.pdb
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class16_Examples\Class16_Examples\obj\Debug\Class16_Examples.csprojResolveAssemblyReference.cache
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class16_Examples\Class16_Examples\obj\Debug\Class16_Examples.csproj.CoreCompileInputs.cache
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class16_Examples\Class16_Examples\obj\Debug\Class16_Examples.exe
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class16_Examples\Class16_Examples\obj\Debug\Class16_Examples.pdb

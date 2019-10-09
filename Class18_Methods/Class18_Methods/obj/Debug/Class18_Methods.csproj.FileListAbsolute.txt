@@ -1,0 +1,7 @@
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class18_Methods\Class18_Methods\bin\Debug\Class18_Methods.exe.config
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class18_Methods\Class18_Methods\bin\Debug\Class18_Methods.exe
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class18_Methods\Class18_Methods\bin\Debug\Class18_Methods.pdb
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class18_Methods\Class18_Methods\obj\Debug\Class18_Methods.csprojResolveAssemblyReference.cache
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class18_Methods\Class18_Methods\obj\Debug\Class18_Methods.csproj.CoreCompileInputs.cache
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class18_Methods\Class18_Methods\obj\Debug\Class18_Methods.exe
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class18_Methods\Class18_Methods\obj\Debug\Class18_Methods.pdb

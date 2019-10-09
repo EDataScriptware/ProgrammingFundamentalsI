@@ -1,0 +1,6 @@
+c:\users\cmcdas\documents\visual studio 2017\Projects\Day15_IntroToArrays\Day15_IntroToArrays\bin\Debug\Day15_IntroToArrays.exe.config
+c:\users\cmcdas\documents\visual studio 2017\Projects\Day15_IntroToArrays\Day15_IntroToArrays\bin\Debug\Day15_IntroToArrays.exe
+c:\users\cmcdas\documents\visual studio 2017\Projects\Day15_IntroToArrays\Day15_IntroToArrays\bin\Debug\Day15_IntroToArrays.pdb
+c:\users\cmcdas\documents\visual studio 2017\Projects\Day15_IntroToArrays\Day15_IntroToArrays\obj\Debug\Day15_IntroToArrays.csprojResolveAssemblyReference.cache
+c:\users\cmcdas\documents\visual studio 2017\Projects\Day15_IntroToArrays\Day15_IntroToArrays\obj\Debug\Day15_IntroToArrays.exe
+c:\users\cmcdas\documents\visual studio 2017\Projects\Day15_IntroToArrays\Day15_IntroToArrays\obj\Debug\Day15_IntroToArrays.pdb

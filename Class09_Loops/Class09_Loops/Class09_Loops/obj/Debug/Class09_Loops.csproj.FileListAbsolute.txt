@@ -1,0 +1,6 @@
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class09_Loops\Class09_Loops\bin\Debug\Class09_Loops.exe.config
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class09_Loops\Class09_Loops\bin\Debug\Class09_Loops.exe
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class09_Loops\Class09_Loops\bin\Debug\Class09_Loops.pdb
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class09_Loops\Class09_Loops\obj\Debug\Class09_Loops.csprojResolveAssemblyReference.cache
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class09_Loops\Class09_Loops\obj\Debug\Class09_Loops.exe
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class09_Loops\Class09_Loops\obj\Debug\Class09_Loops.pdb

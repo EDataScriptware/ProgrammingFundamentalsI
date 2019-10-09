@@ -1,0 +1,12 @@
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class11_FizzBuzz\Class11_FizzBuzz\bin\Debug\Class11_FizzBuzz.exe.config
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class11_FizzBuzz\Class11_FizzBuzz\bin\Debug\Class11_FizzBuzz.exe
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class11_FizzBuzz\Class11_FizzBuzz\bin\Debug\Class11_FizzBuzz.pdb
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class11_FizzBuzz\Class11_FizzBuzz\obj\Debug\Class11_FizzBuzz.csprojResolveAssemblyReference.cache
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class11_FizzBuzz\Class11_FizzBuzz\obj\Debug\Class11_FizzBuzz.exe
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class11_FizzBuzz\Class11_FizzBuzz\obj\Debug\Class11_FizzBuzz.pdb
+E:\Programming\Class11_FizzBuzz\Class11_FizzBuzz\Class11_FizzBuzz\bin\Debug\Class11_FizzBuzz.exe.config
+E:\Programming\Class11_FizzBuzz\Class11_FizzBuzz\Class11_FizzBuzz\bin\Debug\Class11_FizzBuzz.exe
+E:\Programming\Class11_FizzBuzz\Class11_FizzBuzz\Class11_FizzBuzz\bin\Debug\Class11_FizzBuzz.pdb
+E:\Programming\Class11_FizzBuzz\Class11_FizzBuzz\Class11_FizzBuzz\obj\Debug\Class11_FizzBuzz.csprojResolveAssemblyReference.cache
+E:\Programming\Class11_FizzBuzz\Class11_FizzBuzz\Class11_FizzBuzz\obj\Debug\Class11_FizzBuzz.exe
+E:\Programming\Class11_FizzBuzz\Class11_FizzBuzz\Class11_FizzBuzz\obj\Debug\Class11_FizzBuzz.pdb

@@ -1,0 +1,5 @@
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class_06_Examples\Class_06_Logical_Operators\bin\Debug\Class_06_Logical_Operators.exe.config
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class_06_Examples\Class_06_Logical_Operators\bin\Debug\Class_06_Logical_Operators.exe
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class_06_Examples\Class_06_Logical_Operators\bin\Debug\Class_06_Logical_Operators.pdb
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class_06_Examples\Class_06_Logical_Operators\obj\Debug\Class_06_Logical_Operators.exe
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class_06_Examples\Class_06_Logical_Operators\obj\Debug\Class_06_Logical_Operators.pdb

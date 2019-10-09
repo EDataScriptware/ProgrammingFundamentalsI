@@ -1,0 +1,5 @@
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class09_Loops\CanadianCurrencyConverter\bin\Debug\CanadianCurrencyConverter.exe.config
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class09_Loops\CanadianCurrencyConverter\bin\Debug\CanadianCurrencyConverter.exe
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class09_Loops\CanadianCurrencyConverter\bin\Debug\CanadianCurrencyConverter.pdb
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class09_Loops\CanadianCurrencyConverter\obj\Debug\CanadianCurrencyConverter.exe
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class09_Loops\CanadianCurrencyConverter\obj\Debug\CanadianCurrencyConverter.pdb

@@ -1,0 +1,6 @@
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class16_Examples\FortuneTeller\bin\Debug\FortuneTeller.exe.config
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class16_Examples\FortuneTeller\bin\Debug\FortuneTeller.exe
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class16_Examples\FortuneTeller\bin\Debug\FortuneTeller.pdb
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class16_Examples\FortuneTeller\obj\Debug\FortuneTeller.csproj.CoreCompileInputs.cache
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class16_Examples\FortuneTeller\obj\Debug\FortuneTeller.exe
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class16_Examples\FortuneTeller\obj\Debug\FortuneTeller.pdb

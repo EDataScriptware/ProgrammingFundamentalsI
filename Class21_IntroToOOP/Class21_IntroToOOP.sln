@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class21_IntroToOOP", "Class21_IntroToOOP\Class21_IntroToOOP.csproj", "{FD61D02D-E0B6-443E-85AB-B2268F1406ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Planets", "OOP_Planets\OOP_Planets.csproj", "{6DB6BDF6-C061-4D0D-B3CF-98423B5F3998}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD61D02D-E0B6-443E-85AB-B2268F1406ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD61D02D-E0B6-443E-85AB-B2268F1406ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD61D02D-E0B6-443E-85AB-B2268F1406ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD61D02D-E0B6-443E-85AB-B2268F1406ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DB6BDF6-C061-4D0D-B3CF-98423B5F3998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB6BDF6-C061-4D0D-B3CF-98423B5F3998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB6BDF6-C061-4D0D-B3CF-98423B5F3998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB6BDF6-C061-4D0D-B3CF-98423B5F3998}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AA1B967-5C86-4FC5-85D5-7853F1FFAA07}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\cmcdas\Documents\Visual Studio 2017\Projects\Day26_Collections\Day26_Collections\bin\Debug\Day26_Collections.exe.config
+C:\Users\cmcdas\Documents\Visual Studio 2017\Projects\Day26_Collections\Day26_Collections\bin\Debug\Day26_Collections.exe
+C:\Users\cmcdas\Documents\Visual Studio 2017\Projects\Day26_Collections\Day26_Collections\bin\Debug\Day26_Collections.pdb
+C:\Users\cmcdas\Documents\Visual Studio 2017\Projects\Day26_Collections\Day26_Collections\obj\Debug\Day26_Collections.csprojResolveAssemblyReference.cache
+C:\Users\cmcdas\Documents\Visual Studio 2017\Projects\Day26_Collections\Day26_Collections\obj\Debug\Day26_Collections.csproj.CoreCompileInputs.cache
+C:\Users\cmcdas\Documents\Visual Studio 2017\Projects\Day26_Collections\Day26_Collections\obj\Debug\Day26_Collections.exe
+C:\Users\cmcdas\Documents\Visual Studio 2017\Projects\Day26_Collections\Day26_Collections\obj\Debug\Day26_Collections.pdb
+C:\Users\Mason Riley\Desktop\RIT\Programming\Day26_Collections\Day26_Collections\bin\Debug\Day26_Collections.exe.config
+C:\Users\Mason Riley\Desktop\RIT\Programming\Day26_Collections\Day26_Collections\bin\Debug\Day26_Collections.exe
+C:\Users\Mason Riley\Desktop\RIT\Programming\Day26_Collections\Day26_Collections\bin\Debug\Day26_Collections.pdb
+C:\Users\Mason Riley\Desktop\RIT\Programming\Day26_Collections\Day26_Collections\obj\Debug\Day26_Collections.csprojResolveAssemblyReference.cache
+C:\Users\Mason Riley\Desktop\RIT\Programming\Day26_Collections\Day26_Collections\obj\Debug\Day26_Collections.csproj.CoreCompileInputs.cache
+C:\Users\Mason Riley\Desktop\RIT\Programming\Day26_Collections\Day26_Collections\obj\Debug\Day26_Collections.exe
+C:\Users\Mason Riley\Desktop\RIT\Programming\Day26_Collections\Day26_Collections\obj\Debug\Day26_Collections.pdb

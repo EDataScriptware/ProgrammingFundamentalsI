@@ -1,0 +1,5 @@
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class_06_Examples\Class_06_Decisions\bin\Debug\Class_06_Decisions.exe.config
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class_06_Examples\Class_06_Decisions\bin\Debug\Class_06_Decisions.exe
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class_06_Examples\Class_06_Decisions\bin\Debug\Class_06_Decisions.pdb
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class_06_Examples\Class_06_Decisions\obj\Debug\Class_06_Decisions.exe
+c:\users\cmcdas\documents\visual studio 2017\Projects\Class_06_Examples\Class_06_Decisions\obj\Debug\Class_06_Decisions.pdb
